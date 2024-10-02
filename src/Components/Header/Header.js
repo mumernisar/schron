@@ -78,7 +78,7 @@ export const Header = props => {
             <img
               src="Assets/logo.jpeg"
               style={{ width: "50px", height: "50px" }}
-              alt="Bluetap Logo"
+              alt="Schron Logo"
             />
           ) : null}
           {props.page === undefined || props.page !== "signin" ? (

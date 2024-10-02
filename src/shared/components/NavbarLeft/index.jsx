@@ -36,7 +36,7 @@ const ProjectNavbarLeft = (props) => {
 
       <LogoLink to="/">
         <Logo color="#fff" />
-        <LogoText>Bluetap</LogoText>
+        <LogoText>Schron</LogoText>
       </LogoLink>
 
       {props.page === 'account' ? (
